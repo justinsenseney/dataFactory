@@ -1,0 +1,7 @@
+{
+	"name": "AzureBlobStorage972",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/c6976cc4-271c-4c8e-8895-802a55bc5f30/resourceGroups/OISM/providers/Microsoft.Storage/storageAccounts/it65iivhlz3f4azscripts",
+		"groupId": "blob"
+	}
+}
